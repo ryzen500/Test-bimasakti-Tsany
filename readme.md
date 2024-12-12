@@ -17,7 +17,7 @@ Aplikasi Payment PDAM adalah aplikasi dummy untuk simulasi pembayaran PDAM yang 
 
 1. **Clone Repository:**
    ```bash
-   git clone https://[your-repository-url]
+   git clone https://github.com/ryzen500/Test-bimasakti-Tsany.git
    ```
 
 2. **Buat Database:**
